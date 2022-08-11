@@ -10,7 +10,7 @@ set_time_limit(0);
 
 flush();
 
-$API_KEY = $_ENV['BOT_TOKEN']; 
+$API_KEY = $_ENV['5401653512:AAF22QoNhgTUG52H9wAMS53MIE8BTCVXdHo']; 
 
 ##------------------------------##
 
